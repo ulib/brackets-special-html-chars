@@ -793,6 +793,9 @@
         }, {
             "code": "&diams;",
             "title": "black diamond suit"
+        }, {
+            "code": "&#9731;",
+            "title": "snowman"
         }
     ]
 }
